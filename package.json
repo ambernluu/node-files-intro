@@ -1,11 +1,14 @@
 {
-  "name": "files",
+  "name": "node-files",
   "version": "1.0.0",
-  "description": "",
-  "main": "step1.js",
+  "description": "Exercise to create file listing functions.",
+  "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Joel Burton",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
 }
